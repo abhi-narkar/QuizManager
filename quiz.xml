@@ -1,0 +1,31 @@
+< quiz>
+  < title>JAVA Quiz< /title>
+    < questions>    
+      < question>
+        < quizquestion>which operator is considered to be with highest precedence?< /quizquestion>
+        < answer>() , []< /answer>
+        < answer> =< /answer>
+        < answer>?:< /answer>
+        < answer>%< /answer>
+        < correct>1< /correct>
+      < /question>
+
+      < question>
+        < quizquestion>Under what conditions is an object's finalize() method invoked by the garbage collector?< /quizquestion>
+        < answer>When it detects that the object has become unreachable.< /answer>
+        < answer>As soon as object is set as null< /answer>
+        < answer>At fixed intervalm it checks for null value.< /answer>
+        < answer>None of the above.< /answer>
+        < correct>1< /correct>
+      < /question>
+
+      < question>
+        < quizquestion>Static binding uses which information for binding?< /quizquestion>
+        < answer>type.< /answer>
+        < answer>object.< /answer>
+        < answer>Both of the above.< /answer>
+        < answer>None of the above.< /answer>
+        < correct>0< /correct>
+      < /question>
+< /questions>
+< /quiz>
